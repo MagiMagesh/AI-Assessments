@@ -20,5 +20,10 @@
 	From these Models RFC and XG Boost Gives the same level of accuracy. So choosed the XG Boost.
   
   
-  From Postman:
+Created a Flask App to works in Postman:
   
+![POST](https://user-images.githubusercontent.com/86392043/134184740-b08897d8-57c8-4adb-a2c2-b70dbdce29a2.PNG)
+
+Created a Flask App to works in Swagger:
+
+![Swagger](https://user-images.githubusercontent.com/86392043/134184899-f89a10eb-1a9a-4cb7-830c-dffdc2892c15.PNG)
