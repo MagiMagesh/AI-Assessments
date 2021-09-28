@@ -1,4 +1,16 @@
 # AI-Assessments
+
+# About Dataset:
+
+1. Dataset has 154 Features
+2. In which many labels are highly correlated with each other
+3. Some Features shown the S.D of 0
+4. 20-30 Features had High varience and outliers.
+5. Brought Many Features to Standard Normal Distributions.
+6. Since There are many features have to do ** Clustering of the Features ** and find the best fit model for individual features
+
+# Work Progress in Dataset:
+
 1. Dataset of Music labels.
 2. Normalising, Feature Selection, Feature Modeling, Model prediction, testing
 3. Feature Selection,
