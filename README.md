@@ -7,7 +7,7 @@
 3. Some Features shown the S.D of 0
 4. 20-30 Features had High varience and outliers.
 5. Brought Many Features to Standard Normal Distributions.
-6. Since There are many features have to do ** Clustering of the Features ** and find the best fit model for individual features
+6. Since There are many features have to do ** Clustering of the Features ** and find the best fit model for individual Clustering.
 
 # Work Progress in Dataset:
 
